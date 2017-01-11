@@ -1,0 +1,12 @@
+{
+  "host": "localhost",
+  "port": 3030,
+  "mongodb": "mongodb://localhost:27017/DeviceLogs",
+  "public": "../public/",
+  "auth": {
+    "token": {
+      "secret": "FK/fouWzGve/fb/lIjFpYlEdUb+BcVdInEVYUlBv58cwlMgO6atSRk2ESMTOjNqrMdPMKOmLBV5YJI2IW7EAYA=="
+    },
+    "local": {}
+  }
+}
